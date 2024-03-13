@@ -1,0 +1,10 @@
+Mobile_id:1
+Name:samsung
+Description:good
+Manufacturer:samsung
+Price:12345
+Mobile_id:2
+Name:smsung
+Description:good sound quality
+Manufacturer:samsung
+Price:12345
